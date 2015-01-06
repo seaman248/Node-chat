@@ -1,0 +1,13 @@
+{
+	"name": "NodeChat",
+	"version": "1.0.0",
+	"description": "My first Node.js chat",
+	"dependencies": {
+			"socket.io": "0.9",
+			"express": "3.5.0",
+			"jade": "latest"
+	},
+	"author": "Seaman_bko"
+}
+
+//3:44:45/4:41:55
